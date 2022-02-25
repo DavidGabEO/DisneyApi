@@ -1,2 +1,3 @@
 # DisneyApi
-Proyecto para challenged de Alkemy, de David Ordoñez
+Proyecto para challenge Backend C# de Alkemy, por David Ordoñez.
+La api se probó utilizando swagger 
